@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+
+}
+
+.container {
+    width: 500px;
+    height: 500px;
+    display: grid;
+    margin: auto;
+}
+
+.quote {
+    background-color: blueviolet;
+    width: 350px;
+    height: 450px;
+    font-size: 34px;
+    font-style: oblique;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.btn {
+    background-color: yellow;
+    margin: 0 auto;
+    display: grid;
+    width: 100px;
+    height: 27px;
+    border-radius: 5px;
+    font-size: 17px;
+}
+
